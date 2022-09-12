@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: 'MTAxNzg3NTQ0NDgzNTU0OTIzNA.GMLYcl.x148TLpvTnvTVpgOZ2dOa7SWypPYtYQw_1GckQ',
+        token: 'XXX',
         playing: 'Esperando por um comando...',
         global: true,
         guild: 'XXX'
