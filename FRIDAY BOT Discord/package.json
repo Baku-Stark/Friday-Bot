@@ -1,0 +1,17 @@
+{
+  "name": "friday",
+  "version": "1.0.0",
+  "repository": "https://github.com/Baku-Stark/Friday-Bot",
+  "description": "play music!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baku-Stark",
+  "license": "ISC",
+  "dependencies": {
+    "discord-player": "^5.3.2",
+    "discord.js": "^14.6.0",
+    "ms": "^2.1.3"
+  }
+}

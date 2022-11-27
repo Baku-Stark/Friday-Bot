@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'XXX',
+        token: '---',
         playing: 'Esperando por um comando...',
         global: true,
-        guild: 'XXX'
+        guild: '---'
     },
 
     opt: {
